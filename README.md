@@ -1,3 +1,3 @@
 # Budget-App
 
-http://lucas-obwarzanek.pl/Budget-App/
+https://lukobw.github.io/Budget-App
